@@ -1,0 +1,1 @@
+This is a readme file for the assignment. It is meant to help me practice with git.
